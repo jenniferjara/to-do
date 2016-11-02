@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+.checkbox {
+	background-color: #E6E6E6;
+	border-radius: 5px;
+	padding: 2.5%;
+	word-wrap: break-word;
+}
+#tareas {
+	overflow: auto;
+	height: 30em;
+	padding: 1%;
+}
+.tachar {
+	text-decoration: line-through;
+}
+.icon {
+	float: right;
+	cursor: pointer;
+}
